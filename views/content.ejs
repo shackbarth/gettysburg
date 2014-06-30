@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%- title %></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel='stylesheet' href='/stylesheets/bootstrap.min.css' />
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <% if(stylesheet) { %><link rel='stylesheet' href='<%- stylesheet %>' /><% } %>
+    <script type="text/javascript" src="javascripts/skrollr.min.js"></script>
+</head>
+<body style="background-image:url('<%- image %>')">
+  <div class="col-md-5 col-md-offset-2 title">
+    <h1><%- title %></h1>
+    <em><%- subtitle %></em>
+  </div>
+  <div data-0="opacity: 0.2;" data-top="opacity: 0.95;" id="skrollr-body" 
+      class="col-md-6 col-md-offset-3 markdown-content img-rounded">
+    <% if(typeof tableOfContents !== 'undefined') {%>
+    <div class="table-of-contents">
+    <% for(var i = 0; i < tableOfContents.length; i++) {%>
+       <h3><a href="/<%= tableOfContents[i].file %>"><%= tableOfContents[i].title %></a></h3>
+       <em><%= tableOfContents[i].subtitle %></em>
+    <% } %>
+    </div>
+    <% } %>
+    <%- markdown %>
+  </div>
+
+  <script type="text/javascript">
+    skrollr.init();
+  </script>
+</body>
+</html>
