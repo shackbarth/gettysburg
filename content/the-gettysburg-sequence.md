@@ -3,7 +3,7 @@
 
 
 ### Proem
-#####(July 1 - 2 - 3, 1863)
+##### (July 1 - 2 - 3, 1863)
 
 Numbers blur; there's a lie under them, in the teeth of an [old saw](#Old Saw). By Armistice Day in New England, [rock maples](#Rock Maple), one by one, stand skeletons; their erstwhile blaze waits out wind or broom-rake unto oblivion. A leaf, overtaken of a breezeless forenoon, poses, slips, and glides see-saw turfward. It billets you or me.
 
@@ -45,8 +45,8 @@ Mr. Yeats blasphemed shrewd when he owned up that Sex and Death loomed the two c
 ---------------------------------
 
 ### The Gettysburg Sequence #1
-#####Epilogue  
-#####(The Gesture Day... November 19, 1863)
+##### Epilogue  
+##### (The Gesture Day... November 19, 1863)
 
 Mr. Lincoln catnaps to the anodynous clacking of his [Reading](#Reading) coach, closeing on Gettysburg. He tallies random inward and outward accounts. Does the President graze you a mite sorry for Abe? Well, does not the Son of Man for Jesus, urgeing a gibbet to its ordained rearing?
 
@@ -68,7 +68,7 @@ Mr. Lincoln catnaps to the anodynous clacking of his [Reading](#Reading) coach, 
 ---------------------------------
 
 ### The Gettysburg Sequence #2
-#####(The First Day... July 1, 1863)
+##### (The First Day... July 1, 1863)
 
 Robert E. Lee ambles Traveller. The Engineer talks shop and saddle with his sentient engine. The colloquy courses tacit, muted.
 
@@ -100,7 +100,7 @@ Withal, a good man plumb purest to the Traveller, or [Rover](#Rover), that match
 ---------------------------------
 
 ### The Gettysburg Sequence #3
-#####(The First Day... July 1, 1863)
+##### (The First Day... July 1, 1863)
 
 Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting west.
 
@@ -122,7 +122,7 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 ---------------------------------
 
 ### The Gettysburg Sequence #4
-#####(The First Night... July 1, 1863)
+##### (The First Night... July 1, 1863)
 
 [Jennie Wren](#Jennie Wren) reckons ahead. Penelope's story meanders back to woman on earth: by way of The Wife of Bath, Jennie Wren, till Mollie Bloom. It's the way things sort. The fable comes out silly only cecause of the prisses who have laundered it. [When 'Omer smote 'is bloomin' lyre](#When 'Omer), and tacked his lays through the villages and by-ways of Attica, the locals sensed which cheek his tongue lodged. And blind or not blind, we daresay he knew to wink too.
 
@@ -144,7 +144,7 @@ Auld John Burns, [souter](#Souter), stands ready, wheat to the midriff, sighting
 ---------------------------------
 
 ### The Gettysburg Sequence #5
-#####(The First Night... July 1, 1863)
+##### (The First Night... July 1, 1863)
 
 Mounted on a sorrel mare, Major [Henry Lee](#Light Horse) reins up along the bedstead in the Lutheran Seminary, Army Headquarters, where his son Robert tussles sleep. (Or do we deem, through an hindsight bestowed, that the Janus-faced prophets, Monk Mendel and Doctor Freud, are honoured once again?)
 
@@ -170,7 +170,7 @@ O, the splendid [Anne Carter Lee](#Anne Carter Lee)... a woman to the banner bor
 ---------------------------------
 
 ### The Gettysburg Sequence #6
-#####(The Second Day... July 2, 1863)
+##### (The Second Day... July 2, 1863)
 
 George Gordon Meade strives to be honest with himself and, in his way, toward James Longstreet. He gets up. Dressed to the waist, the General lumbers forth his croft to surprise the sun signalling farside [Red Lion](#Red Lion). This natural spectacle uneases him. He has a _lease_ on the high ground all right, but as celestial prodigies rise, so men have been known to. The man downs his draught of dawn. He repairs to Headquarters, gets gearing behind him, and knuckles down to work. His plotting and placements will resolve in no blameworthy miscalculation. It would take through tomorrow, _owning_ the high ground.
 
@@ -192,7 +192,7 @@ George Gordon Meade strives to be honest with himself and, in his way, toward Ja
 ---------------------------------
 
 ### The Gettysburg Sequence #7
-#####(The Second Day... July 2, 1863)
+##### (The Second Day... July 2, 1863)
 
 Major Arno Kiesewetter, Regimental Executive Officer to the 1st Wisconsin Infantry, with ninety minutes tenure - thanks Lt. Col. Aiden's trifty passing by decapitation - lies unattended, dying in The Wheatfield. It doesn't matter though; he's dead, _clinically_. Piffle such a _polysyllabic_, evoking an alabaster haven-of-succour that The Wheatfield manifestly was _not_ July 2, 1863. An encephalographic gadgetry, at our later time, is said to ticker back life-after-death. Once breath and beat have frozen stone cold dead at the market-place, the dwindling oxygen harvest stacked in the cranial silo drags matters out timeable seconds, even minutes, savantry contends.
 
@@ -224,7 +224,7 @@ In this sonnet, [quasi ex mortuo](#Quasi Ex Mortuo), he shares with her what bot
 ---------------------------------
 
 ### The Gettysburg Sequence #8
-#####(The Second Night... July 2, 1863)
+##### (The Second Night... July 2, 1863)
 
 Father Corby, Chaplain to the 88th New York Infantry of The Irish Brigade, assesses doings and undoings during the day gone by. Does he echo an apostasy... perhaps Jesus' groan: "Father, Father, why has Thou forsaken me?"
 
@@ -246,7 +246,7 @@ Father Corby, Chaplain to the 88th New York Infantry of The Irish Brigade, asses
 ---------------------------------
 
 ### The Gettysburg Sequence #9
-#####(The Second Night... July 2, 1863)
+##### (The Second Night... July 2, 1863)
 
 Major General John Sedgewick, Cornwall Hollow (later of Hartford), Connecticut, alone in his tent, lapses a moment into boyhood nostalgia. But then a tide of sluggish yankee anger wells within and submerges the extraniety. He chafes at being in reserve with his VI. Corps for the day ahead. A valid reason for the posture General Meade assigned had been the [thirty-two mile forced march](#Thirty-Two Mile Forced March) the Corps underwent to get there at all.
 
@@ -270,7 +270,7 @@ Meade's caution, after standing Lee off, forestalled The Rout. John Sedgewick ha
 ---------------------------------
 
 ### The Gettysburg Sequence #10
-#####(The Third Day... July 3, 1863)
+##### (The Third Day... July 3, 1863)
 
 Lewis A. Armistead drafts The Order of the Day to Pickett's prized brigade... in time to mound his own cairn.
 
@@ -292,7 +292,7 @@ Lewis A. Armistead drafts The Order of the Day to Pickett's prized brigade... in
 ---------------------------------
 
 ### The Gettysburg Sequence #11
-#####(The Third Day... July 3, 1863)
+##### (The Third Day... July 3, 1863)
 
 Three envoys to [Tophet](#Tophet) emerge the south-east corner Spangler's Wood where it yields to The Swale and the oblique snake fence fronting the Spangler cote. The time stands 16:05 hours. The men need no compass to hold the ENE course the three Brigades have ordained; carnage underfoot delimes the azimuth thrifty enough. And so, this unholy trinity urges on, armed down to the eyelashes.
 
@@ -348,7 +348,7 @@ Mr. Lincoln, and My beloved Friend... The Gentle Man
 ---------------------------------
 
 ### The Gettysburg Sequence #12
-#####(The Third Night... July 3, 1863)
+##### (The Third Night... July 3, 1863)
 
 >Mourn all tomorrow's not. Yorktown has diced  
 >[Box-cars](#Box-Cars) for what's now pent. We'll need to clam  
@@ -368,7 +368,7 @@ Mr. Lincoln, and My beloved Friend... The Gentle Man
 ---------------------------------
 
 ### The Gettysburg Sequence #13
-#####(The Third Night... July 3, 1863)
+##### (The Third Night... July 3, 1863)
 
 Mr. Lincoln, The Commander-In-Chief, despatches an order to Headquarters, army of The Cumberland, outside [Vicksburg](#Vicksburg). It's burthen: Major General Grant, during an indeterminate hiatus, is to tidy debris both banks the Mississippi south to New Orleans, and if there's time, scour the hinterland. But so arrange matters, that he is ready at a moment's notice for summons to Washington.
 
@@ -390,7 +390,7 @@ Mr. Lincoln, The Commander-In-Chief, despatches an order to Headquarters, army o
 ---------------------------------
 
 ### The Gettysburg Sequence #14
-#####(The Coda... July 13, 1863)
+##### (The Coda... July 13, 1863)
 
 Mrs. Carter, a young widow, gestates. She gropes about her now-very-own mansion outside Culpeper. Sarah Carter divines - as men must decipher - the Civil War that ravishes in the five distinct inferences of that love-hate-love-hate-love word. She stems an upper-class Perthshire hearth; her given name had been Sarah Frazier. As a maiden, she resettled with the family in Boston. There, at Harvard Promenade, she met a senior, Byrd Carter, or Westmoreland County. September the following year, Sarah and Byrd were joined at the Carter's parish church near Kinsale. Byrd's mother was no carving out confectioner's ice. No, she was a woman all right: Sarah Frazier's unforced physical loveliness, bone-build in particular, delighted her. First and foremost, because new blood would be tempering the lineage. So pleased at Byrd's union with Sarah was Mrs. Carter, nee Randolph, that she bestowed on her beloved son, and, to her astute insight, even finer daughter-in-law, the empty lineal mansion and stables at Culpeper.
 
@@ -414,8 +414,8 @@ The lad-to-be, bideing his turn, safe in the loins of Byrd Carter and Sarah Fraz
 ---------------------------------
 
 ### Appendix #1
-#####FOR GENERAL JOHN BUFORD  
-#####(Mid-morning... July 1, 1863)
+##### FOR GENERAL JOHN BUFORD  
+##### (Mid-morning... July 1, 1863)
 
 General John Buford was a fighter, and _he_ swivelled the tactial eye-balls pierceing through which Mr. Lincoln's--the strategist, by now, bar none--decisive vision surveyed. The fragment that follows is excerpted from a base inscription to his bronze statuary on the battlefield. Buford stands there, _dismouted_, (redundancy is, for once, licit) assaying west-south-west along the Chambersburg Pike. Flanking him, rear General John F. [Reynolds](#Reynolds), whose mount is depicted, canonically, in the ominous stance -- [three hooves _terra firma_](#Three Hooves Terra Firma), one cocked for the paw-- hard by on the east and, to the west, by a latter day knicknackery.
 
@@ -455,8 +455,8 @@ One may abide the [Mahanian](#Mahanian) stricture. Likely Farragut was the tail 
 ---------------------------------
 
 ### Appendix #E=MC2
-#####(Evening... June 30, 1863)  
-#####_(Written on The Vigil of the Feast of The Blood Immersion, 6/30/71)_
+##### (Evening... June 30, 1863)  
+##### _(Written on The Vigil of the Feast of The Blood Immersion, 6/30/71)_
 
 She sums all things to all men, all women... multifarious tissue to several men. Aye, Robert Burns, Quill minds well the _sense_ that under_pins_ your astute and harmonious construal, "NATURE'S LAW". Still, Gettysburg under_mines_ the very piles of animate continuity. Indeed, there _was_ [Flodden](#Flodden), but Bonnie Scotland somehow endured its shambles. (One song, only one, grips Quill tauter than all your masteries - "[FLO'ERS O' THE FOREST](#Flo'ers)"). His homeland? A necropolis since July 4, 1863. So, at the wry mathematic, Gettysburg-by-Willoughby Run supersedes Flodden-by-Coldstream.
 
