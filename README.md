@@ -25,7 +25,7 @@ Gettysburg will elevate the first two lines of each markdown file as the title a
 
 ### What does it look like?
 
-Here's a site [built with Gettysburg](http://shackbarth-gettysburg.herokuapp.com/). The specific content 
+Here's a site [built with Gettysburg](https://shackbarth-gettysburg.onrender.com/). The specific content 
 is deployed from a [branch](https://github.com/shackbarth/gettysburg/tree/shackbarth) of the
 [framework-only master](https://github.com/shackbarth/gettysburg), 
 which is how you should do it if you want to contribute back framework
@@ -33,7 +33,7 @@ code.
 
 ### How should I deploy it?
 
-Just use Heroku.
+Just use Heroku or Render or suchlike.
 
 ### How can my audience give me comments or +1's or Pinterest etcetera?
 
